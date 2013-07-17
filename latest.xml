@@ -8,4 +8,6 @@ The following items are changed:
 - Fixed some bugs when working with newer ffmpeg versions.
   ]]>
 </ReleaseNotes>
+<DownloadUrl type="windows-installer">http://dl.bintray.com/lzh9102/generic/qwinff_0.1.8-setup.exe</DownloadUrl>
+<DownloadUrl type="windows-portable">http://dl.bintray.com/lzh9102/generic/qwinff_0.1.8-windows-portable.7z</DownloadUrl>
 </QWinFFVersionInfo>
