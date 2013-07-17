@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<QWinFFVersionInfo>
+<Name>0.1.8</Name>
+<ReleaseDate>20120213</ReleaseDate>
+<ReleaseNotes><![CDATA[
+The following items are changed:
+- Improved video/audio cutting interface.
+- Fixed some bugs when working with newer ffmpeg versions.
+  ]]>
+</ReleaseNotes>
+</QWinFFVersionInfo>
