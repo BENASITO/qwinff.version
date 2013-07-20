@@ -2,9 +2,13 @@
 <QWinFFVersionInfo>
 <Name>0.1.8</Name>
 <ReleaseDate>20120213</ReleaseDate>
-<ReleaseNotes><![CDATA[The following items are changed:
-  - Improved video/audio cutting interface.
-  - Fixed some bugs when working with newer ffmpeg versions.]]>
+<ReleaseNotes type="text/html"><![CDATA[
+The following items are changed:<br>
+<ul>
+  <li>Improved video/audio cutting interface.</li>
+  <li>Fixed some bugs when working with newer ffmpeg versions.</li>
+</ul>
+]]>
 </ReleaseNotes>
 <DownloadPage>http://qwinff.blogspot.tw/p/downloads.html</DownloadPage>
 <WindowsInstaller>
