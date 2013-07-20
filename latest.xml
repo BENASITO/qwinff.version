@@ -6,6 +6,7 @@
   - Improved video/audio cutting interface.
   - Fixed some bugs when working with newer ffmpeg versions.]]>
 </ReleaseNotes>
+<DownloadPage>http://qwinff.blogspot.tw/p/downloads.html</DownloadPage>
 <WindowsInstaller>
   <DownloadLink>http://dl.bintray.com/lzh9102/generic/qwinff_0.1.8-setup.exe</DownloadLink>
 </WindowsInstaller>
