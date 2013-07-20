@@ -3,7 +3,7 @@
 <Name>0.1.8</Name>
 <ReleaseDate>20120213</ReleaseDate>
 <ReleaseNotes type="text/html"><![CDATA[
-The following items are changed:<br>
+The following items are changed:
 <ul>
   <li>Improved video/audio cutting interface.</li>
   <li>Fixed some bugs when working with newer ffmpeg versions.</li>
