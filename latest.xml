@@ -11,10 +11,9 @@ The following items are changed:
 ]]>
 </ReleaseNotes>
 <DownloadPage>http://qwinff.blogspot.tw/p/downloads.html</DownloadPage>
-<WindowsInstaller>
-  <DownloadLink>http://dl.bintray.com/lzh9102/generic/qwinff_0.1.8-setup.exe</DownloadLink>
-</WindowsInstaller>
-<WindowsPortable>
-  <DownloadLink>http://dl.bintray.com/lzh9102/generic/qwinff_0.1.8-windows-portable.7z</DownloadLink>
-</WindowsPortable>
+<DownloadLinks>
+  <WindowsInstaller>http://dl.bintray.com/lzh9102/generic/qwinff_0.1.8-setup.exe</WindowsInstaller>
+  <WindowsPortable>http://dl.bintray.com/lzh9102/generic/qwinff_0.1.8-windows-portable.7z</WindowsPortable>
+  <Source>http://dl.bintray.com/lzh9102/generic/qwinff_0.1.8.tar.bz2</Source>
+</DownloadLinks>
 </QWinFFVersionInfo>
