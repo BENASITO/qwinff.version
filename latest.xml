@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <QWinFFVersionInfo>
 <Name>0.1.8</Name>
+<VersionId>180</VersionId>
 <ReleaseDate>20120213</ReleaseDate>
 <ReleaseNotes type="text/html"><![CDATA[
 The following items are changed:
