@@ -1,33 +1,25 @@
 <?xml version="1.0"?>
 <QWinFFVersionInfo>
-<Name>0.1.9</Name>
-<VersionId>19</VersionId>
-<ReleaseDate>20120910</ReleaseDate>
+<Name>0.2.0</Name>
+<VersionId>20</VersionId>
+<ReleaseDate>20140209</ReleaseDate>
 <ReleaseNotes type="text/html"><![CDATA[
-The following items are changed:
+<p>Version 0.2.0 (2014-02-09)</p>
 <ul>
-  <li>Added output formats: asf, swf, aiff, flac, au, mp2</li>
-  <li>Added more output path options.</li>
-  <li>Added update checker.</li>
-  <li>Automatically start conversion after adding files (off by default)</li>
-  <li>Several program parameters can be set in constants.xml.</li>
-  <li>Minor UI improvements</li>
-  <li>Can now set version-specific ffmpeg parameters in presets.xml.</li>
-  <li>Compatible with newer ffmpeg versions ("-sameq" doesn't work since ffmpeg 1.2).</li>
-  <li>(Windows) Dialog buttons are now also translated.</li>
-  <li>(Linux) User can now change ffmpeg and sox executable paths in the Options dialog.</li>
-  <li>(Packaging) Support older Qt versions down to 4.4.3.</li>
-  <li>(Packaging) Added file "constants.xml".</li>
-  <li>(Packaging) (Windows) Place Qt translation files in "translations" folder</li>
-  <li>(Packaging) (Windows) QWinFF now depends on QtNetwork4.dll (for update checker).</li>
-  <li>(Packaging) (Windows) merge "ffmpeg" and "sox" folder into "tools" folder</li>
+<li> Use avconv if ffmpeg is not available (experimental)</li>
+<li> Added a video-cutting dialog with embedded mplayer.</li>
+<li> Use embedded mplayer to preview video-cutting.</li>
+<li> Recursively add files when a folder is dragged in.</li>
+<li> Fixed default presets for AVI</li>
+<li> Added application icon for OS/2 Warp.</li>
+<li> Switched to Tango icon theme.</li>
 </ul>
-]]>
-</ReleaseNotes>
-<DownloadPage>http://qwinff.blogspot.tw/p/downloads.html</DownloadPage>
+
+]]></ReleaseNotes>
+<DownloadPage>http://qwinff.github.io/downloads.html</DownloadPage>
 <DownloadLinks>
-  <WindowsInstaller>http://sourceforge.net/projects/qwinff/files/release/v0.1.9/qwinff_0.1.9-setup.exe/download</WindowsInstaller>
-  <WindowsPortable>http://sourceforge.net/projects/qwinff/files/release/v0.1.9/qwinff-portable-0.1.9.7z/download</WindowsPortable>
-  <Source>http://sourceforge.net/projects/qwinff/files/release/v0.1.9/qwinff_0.1.9.tar.bz2/download</Source>
+<WindowsInstaller>http://sourceforge.net/projects/qwinff/files/release/v0.2.0/qwinff_0.2.0-setup.exe/download</WindowsInstaller>
+<WindowsPortable>http://sourceforge.net/projects/qwinff/files/release/v0.2.0/qwinff-portable-0.2.0.7z/download</WindowsPortable>
+<Source>http://sourceforge.net/projects/qwinff/files/release/v0.2.0/qwinff_0.2.0.tar.bz2/download</Source>
 </DownloadLinks>
 </QWinFFVersionInfo>
